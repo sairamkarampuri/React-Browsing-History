@@ -103,7 +103,7 @@ The app must have the following functionalities
 
 </details>
 
-<b><a href="https://browsinghissai.ccbp.tech/" target=_blank" >[Solution Link](https://browsinghissai.ccbp.tech/)</a></b>
+<b><a>[Solution Link](https://browsinghissai.ccbp.tech/)</a></b>
 
 > ### _Things to Keep in Mind_
 >
